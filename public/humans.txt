@@ -1,0 +1,39 @@
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER
+
+Prince Dudhatra
+Designer, Frontend Devloper, Animator, Motion Graphic, Video Editor 
+Design tools:
+Figma
+InVision
+Adobe Xd
+Adobe Aftereffects
+Adobe Premierpro
+Adobe photoshop
+Adobe  Illustrator
+Adobe Anime
+Corel Draw
+Da vinci Resolve
+
+github.com/Princedudhatra
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+React
+Storybook
+Three
+Popmotion
+
+_______________________________________________________________________________
+
+FONTS
+
+Gotham
+SFMono
+Hiragino Kaku Gothic
